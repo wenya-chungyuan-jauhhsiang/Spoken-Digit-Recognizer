@@ -8,13 +8,13 @@
   </div>
 </p>
 
-<p><a href="https://github.com/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/tree/master/src/split_audio"><img src="https://img.shields.io/badge/Split--Audio-src-brightgreen.svg" alt="" /></a>
+<p align="center"><a href="https://github.com/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/tree/master/src/split_audio"><img src="https://img.shields.io/badge/Split--Audio-src-brightgreen.svg" alt="" /></a>
 <a href="https://github.com/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/tree/master/src/Spectrogram%2BCNN"><img src="https://img.shields.io/badge/Spectrogram%2BCNN-src-brightgreen.svg" alt="" /></a>
 <a href="#"><img src="https://img.shields.io/badge/MFCC%2BRNN-src-brightgreen.svg" alt="" /></a>
 <a href="https://github.com/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/tree/master/src/Gan"><img src="https://img.shields.io/badge/GAN-src-brightgreen.svg" alt="" /></a>
 <a href="https://github.com/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/tree/master/src/Demo"><img src="https://img.shields.io/badge/Demo-src-brightgreen.svg" alt="" /></a></p>
 
-<p><a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/split_audio.ipynb"><img src="https://img.shields.io/badge/Split--Audio-doc-blue.svg" alt="" /></a>
+<p align="center"><a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/split_audio.ipynb"><img src="https://img.shields.io/badge/Split--Audio-doc-blue.svg" alt="" /></a>
 <a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/Spectrogram_CNN_doc.ipynb"><img src="https://img.shields.io/badge/Spectrogram%2BCNN-doc-blue.svg" alt="" /></a>
 <a href="#"><img src="https://img.shields.io/badge/MFCC%2BRNN-doc-blue.svg" alt="" /></a>
 <a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/GAN_doc.ipynb"><img src="https://img.shields.io/badge/GAN-doc-blue.svg" alt="" /></a>
