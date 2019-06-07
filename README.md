@@ -24,7 +24,7 @@
 ### [Spoken-Digit Recognizer – Demo (YouTube)](https://www.youtube.com/watch?v=_yKum1DxPJM)
 <p align="center">
 <a href=https://www.youtube.com/watch?v=_yKum1DxPJM>
-    <img src="resources/demo.gif" alt="demo" width="480" height="480">
+    <img src="resources/demo.gif" alt="demo" width="720" height="450">
 </a>
 </p>
 
