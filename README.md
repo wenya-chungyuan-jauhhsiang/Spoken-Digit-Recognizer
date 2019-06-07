@@ -29,7 +29,7 @@
 </p>
 
 Demo詳細介紹請點連結
-- ### [(Detailed) GAN](https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/GAN_doc.ipynb)
+- ### [(Detailed) Demo](https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/Demo_doc.ipynb)
 
 ## Dataset
 **所有使用data皆置於[dataset.rar](https://github.com/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/dataset.rar)**
