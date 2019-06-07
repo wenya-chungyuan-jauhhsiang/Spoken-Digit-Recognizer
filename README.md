@@ -1,6 +1,6 @@
 <p align="center">
   <a href=#>
-    <img src="https://i.imgur.com/Uid1O3A.png" alt="Dicom Viewer" width="96" height="96">
+    <img src="https://cdn.pixabay.com/photo/2017/02/27/19/34/microphone-2104091_1280.png" alt="Dicom Viewer" width="96" height="96">
   </a>
   <h2 align="center">語音數字辨識專案 (Spoken-Digit Recognizer)</h2>
   <div align="center">
