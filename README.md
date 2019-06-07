@@ -28,6 +28,9 @@
 </a>
 </p>
 
+Demo詳細介紹請點連結
+- ###[(Detailed) GAN](https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/GAN_doc.ipynb)
+
 ## Dataset
 **所有使用data皆置於[dataset.rar](https://github.com/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/dataset.rar)**
 ### 英文
@@ -45,12 +48,12 @@
 
 ## Implementation
 對目標1，先將包含多數字的音檔分割，再使用不同種model來辨識，詳細介紹請點連結
-- ### [(Detail) Split Audio](https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/split_audio.ipynb)
-- ### [(Detail) Spectrogram + CNN](https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/Spectrogram_CNN_doc.ipynb)    
-- ### [(Detail) MFCC + RNN](https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/MFCC_RNN_doc.ipynb)
+- ### [(Detailed) Split Audio](https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/split_audio.ipynb)
+- ### [(Detailed) Spectrogram + CNN](https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/Spectrogram_CNN_doc.ipynb)    
+- ### [(Detailed) MFCC + RNN](https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/MFCC_RNN_doc.ipynb)
 
 對目標2，使用inverse-STFT方式，詳細介紹請點連結
-- ### [(Detail) GAN](https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/GAN_doc.ipynb)
+- ### [(Detailed) GAN](https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/GAN_doc.ipynb)
 
 ## 問題討論
 ### 1. 聲紋影響
