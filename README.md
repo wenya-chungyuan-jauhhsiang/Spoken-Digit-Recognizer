@@ -64,5 +64,5 @@ Demo詳細介紹請點連結
     - 英文對於發音並沒有制式的音調規則，例如有些字會因語氣不同而音調不同，這導致我們model的辨識正確率並不理想
     - 後來我們選擇嘗試中文，由於中文絕大多數發音是濁音，且抑揚頓挫已有明確定義，因此訓練出的model辨識正確率果然如我們預期，有明顯的提升
 
-## Contributor
+## Contributors
 [WenYa Lin](https://github.com/wenyalintw)、[ChungYuan Hsu](https://github.com/ChungYuanHsu)、[JauhHsiang Lan](https://github.com/r07522749)
