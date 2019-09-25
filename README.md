@@ -8,17 +8,17 @@
   </div>
 </p>
 
-<p align="center"><a href="https://github.com/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/tree/master/src/split_audio"><img src="https://img.shields.io/badge/Split--Audio-src-brightgreen.svg" alt="" /></a>
-<a href="https://github.com/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/tree/master/src/Spectrogram_CNN"><img src="https://img.shields.io/badge/Spectrogram%2BCNN-src-brightgreen.svg" alt="" /></a>
-<a href="https://github.com/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/tree/master/src/MFCC_RNN"><img src="https://img.shields.io/badge/MFCC%2BRNN-src-brightgreen.svg" alt="" /></a>
-<a href="https://github.com/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/tree/master/src/Gan"><img src="https://img.shields.io/badge/GAN-src-brightgreen.svg" alt="" /></a>
-<a href="https://github.com/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/tree/master/src/Demo"><img src="https://img.shields.io/badge/Demo-src-brightgreen.svg" alt="" /></a></p>
+<p align="center"><a href="https://github.com/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/tree/master/src/split_audio"><img src="resources/Split--Audio-src-brightgreen.svg" alt="" /></a>
+<a href="https://github.com/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/tree/master/src/Spectrogram_CNN"><img src="resources/Spectrogram+CNN-src-brightgreen.svg" alt="" /></a>
+<a href="https://github.com/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/tree/master/src/MFCC_RNN"><img src="resources/MFCC+RNN-src-brightgreen.svg" alt="" /></a>
+<a href="https://github.com/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/tree/master/src/Gan"><img src="resources/GAN-src-brightgreen.svg" alt="" /></a>
+<a href="https://github.com/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/tree/master/src/Demo"><img src="resources/Demo-src-brightgreen.svg" alt="" /></a></p>
 
-<p align="center"><a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/split_audio.ipynb"><img src="https://img.shields.io/badge/Split--Audio-doc-blue.svg" alt="" /></a>
-<a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/Spectrogram_CNN_doc.ipynb"><img src="https://img.shields.io/badge/Spectrogram%2BCNN-doc-blue.svg" alt="" /></a>
-<a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/MFCC_RNN_doc.ipynb"><img src="https://img.shields.io/badge/MFCC%2BRNN-doc-blue.svg" alt="" /></a>
-<a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/GAN_doc.ipynb"><img src="https://img.shields.io/badge/GAN-doc-blue.svg" alt="" /></a>
-<a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/Demo_doc.ipynb"><img src="https://img.shields.io/badge/Demo-doc-blue.svg" alt="" /></a></p>
+<p align="center"><a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/split_audio.ipynb"><img src="resources/Split--Audio-doc-blue.svg" alt="" /></a>
+<a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/Spectrogram_CNN_doc.ipynb"><img src="resources/Spectrogram%2BCNN-doc-blue.svg" alt="" /></a>
+<a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/MFCC_RNN_doc.ipynb"><img src="resources/MFCC%2BRNN-doc-blue.svg" alt="" /></a>
+<a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/GAN_doc.ipynb"><img src="resources/GAN-doc-blue.svg" alt="" /></a>
+<a href="https://nbviewer.jupyter.org/github/wenya-chungyuan-jauhhsiang/Spoken-Digit-Recognizer/blob/master/docs/Demo_doc.ipynb"><img src="resources/Demo-doc-blue.svg" alt="" /></a></p>
 
 ## 先看段Demo吧！
 ### [Spoken-Digit Recognizer – Demo (YouTube)](https://www.youtube.com/watch?v=_yKum1DxPJM)
